@@ -3,7 +3,8 @@
 Welcome to my QA portfolio. This showcases my manual testing projects, bug tracking, and documentation skills.
 
 ## Projects
-1. [Facebook Login/Signup Manual Testing Project](./Facebook_Login_Signup_Manual_Testing_Project)  
+1. [Facebook Login/Signup Manual Testing Project](./Facebook_Login_Signup_Manual_Testing_Project)
+2. https://github.com/DilmiJayakodi/My-QA-Portfolio/tree/main/E-COMMERCE%20MANUAL%20TESTING%20PROJECT
 
 ## Skills Demonstrated
 - Manual Testing (Functional, UI, Regression, Negative Testing)
