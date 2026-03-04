@@ -13,13 +13,13 @@ Each project in this repository reflects real-world QA scenarios where I applied
 
 ## Key Highlights:
 
-Strong understanding of manual testing principles and software quality standards.
+* Strong understanding of manual testing principles and software quality standards.
 
-Skilled in test planning, test case design, and defect documentation.
+* Skilled in test planning, test case design, and defect documentation.
 
-Hands-on experience in functional, boundary value, positive/negative, and validation testing.
+* Hands-on experience in functional, boundary value, positive/negative, and validation testing.
 
-Organized portfolio hosted on GitHub to demonstrate practical QA expertise.
+* Organized portfolio hosted on GitHub to demonstrate practical QA expertise.
 
 This portfolio is designed to showcase my capability to identify software issues early, ensure user satisfaction, and contribute effectively to QA teams.
 
