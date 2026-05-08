@@ -19,7 +19,7 @@ To validate the functionality, usability, and reliability of an e-commerce syste
 - Requirement Traceability Matrix (RTM)
 - Bug Reporting with Severity & Priority
 - Test Execution Screenshots
-- 
+  
 
 
 
