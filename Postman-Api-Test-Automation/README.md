@@ -25,5 +25,4 @@ This mini project demonstrates automated API workflow testing using Postman Coll
 - Update user
 - Delete user
 
-## Author
-Dilmi Jayakodi
+
